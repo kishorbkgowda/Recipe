@@ -12,7 +12,7 @@ function Deliver() {
               <h2 className='text-2xl text-cyan-500 font-bold'>Get the App</h2>
               <h2 className='text-2xl md:text-4xl font-bold text-center'>Limitless Convenience on-demand</h2>
               <p className='font-semibold text-[1rem] text-center sm:text-left'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo eius est nisi repellat vero veritatis aspernatur rem. Minus earum cupiditate molestias eveniet nesciunt perspiciatis nostrum, similique aspernatur deleniti et illo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ullam expedita magnam nostrum et nesciunt, saepe ducimus obcaecati, error laboriosam animi qui. Laborum iste voluptate et repudiandae, iusto tempora provident.</p>
-              <button className='bg-black text-cyan-600 rounded-md px-10 py-3'>Get Started</button>
+              <button className='bg-orange-700 text-white rounded-md px-10 py-3 font-bold'>Get Started</button>
           </div>
         </div>
     </div>
